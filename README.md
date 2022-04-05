@@ -19,4 +19,4 @@ Note: If the number is a multiple of both 3 and 5, only count it once.
 
 **Solution Link:** [multiples3or5.js](http://)
 
-**Rake:** Medium 
+**Rank:** Medium 
