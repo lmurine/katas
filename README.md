@@ -17,6 +17,6 @@ Note: If the number is a multiple of both 3 and 5, only count it once.
 
 **Language:** JavaScript
 
-**Solution Link:** [multiples3or5.js](http://)
+**Solution Link:** [multiples3or5.js](https://github.com/lmurine/katas/scripts/multiples3or5.js)
 
 **Rank:** Medium 
